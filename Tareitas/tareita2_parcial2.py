@@ -1,4 +1,4 @@
-"""calcularemos la distancia entre todos los pares de puntos y determminaremos cuales estan mas cercanos Un a los otros utilizando las distancias f
+"""Calcularemos la distancia entre todos los pares de puntos y determminaremos cuales estan mas cercanos Un a los otros utilizando las distancias f
 euclidianas, manhattan y chebyshev
 """
 import numpy as np
