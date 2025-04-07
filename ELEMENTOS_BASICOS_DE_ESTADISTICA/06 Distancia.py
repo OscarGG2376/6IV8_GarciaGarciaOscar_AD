@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 from scipy.spatial import distance 
-
+#Fundamento de machine learning
 tiendas = {
 
     'tienda1' : (1,1),
